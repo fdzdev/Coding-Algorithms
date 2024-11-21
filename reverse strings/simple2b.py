@@ -1,4 +1,4 @@
-# goal: Exercise 2: Reverse a String with Spaces. Ask user for input
+# goal: Exercise 2: Reverse a String with Spaces. Ask user for input!
 # Input: "h e l l o"
 # Output: "o l l e h"
 
