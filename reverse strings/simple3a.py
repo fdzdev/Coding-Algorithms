@@ -1,4 +1,4 @@
-# goal: Exercise 3: Reverse a String Recursively
+# goal: Exercise 3: Reverse a String Recursively!
 # Input: "world"
 # Output: "dlrow"
 
