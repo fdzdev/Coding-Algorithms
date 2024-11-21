@@ -1,4 +1,4 @@
-# goal: Exercise 1: Reverse a Simple String
+# goal: Exercise 1: Reverse a Simple String!
 # Input: "hello"
 # Output: "olleh"
 
